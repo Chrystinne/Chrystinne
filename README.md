@@ -1,6 +1,6 @@
 <img src="https://static.djangoproject.com/img/fundraising-heart.cd6bb84ffd33.svg" 
      alt="heart" 
-     width="80px" 
+     width="50px" 
      align="right">
 
 <h3>
