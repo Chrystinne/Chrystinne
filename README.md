@@ -6,7 +6,7 @@
      align="right">
 
 <p align="left"> 
-  Hi! I'm Chrystinne Fernandes, a Senior Postdoc at MIT.<br><br>
+  Hi! I'm Chrystinne Fernandes, a Senior Postdoc at MIT.<br>
 
   I'm currently working on <a href="https://physionet.org/">PhysioNet</a> and 
   <a href="https://mimic.mit.edu/">MIMIC</a>, focusing on secure health data sharing, 
