@@ -1,22 +1,31 @@
 <img src="https://static.djangoproject.com/img/fundraising-heart.cd6bb84ffd33.svg" 
      alt="heart" 
-     min-width="120px" 
-     max-width="120px" 
-     width="120px" 
+     width="80px" 
      align="right">
 
-<p align="left"> 
-  Hi! I'm Chrystinne Fernandes, a Senior Postdoc at MIT.<br>
+<h3>
+  Hi! I'm Chrystinne Fernandes 👋
+</h3>
 
-  I'm currently working on <a href="https://physionet.org/">PhysioNet</a> and 
-  <a href="https://mimic.mit.edu/">MIMIC</a>, focusing on secure health data sharing, 
-  cloud infrastructure, AI research, and large-scale clinical datasets.
+<p>
+  <img src="https://img.shields.io/badge/Postdoc-MIT-66d492?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Health-AI-ffa3ce?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-Infrastructure-be95fa?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-ffa3ce?style=for-the-badge"/>
 </p>
 
-<p align="left">
-  Let's connect!<br><br>
+<p>
+  I'm currently working on 
+  <a href="https://physionet.org/">PhysioNet</a> and 
+  <a href="https://mimic.mit.edu/">MIMIC</a>,
+  focusing on secure health data sharing, AI research, and large-scale clinical datasets.
+</p>
 
-  <a href="https://www.linkedin.com/in/chrystinne-fernandes-phd-7049bb33/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  Let's connect!<br>
+<p>
+  <a href="https://www.linkedin.com/in/chrystinne-fernandes-phd-7049bb33/">
+    <img src="https://img.shields.io/badge/LinkedIn-be95fa?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
+
 </p>
