@@ -8,7 +8,7 @@
 </h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Postdoc-MIT-66d492?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Research Scientist-MIT-66d492?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Health-AI-ffa3ce?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cloud-Infrastructure-be95fa?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-ffa3ce?style=for-the-badge"/>
